@@ -97,6 +97,14 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
   <img alt="Contribution chart" src="https://ghchart.rshah.org/111111/syabilpcr" width="95%" />
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
