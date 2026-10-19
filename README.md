@@ -24,14 +24,7 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 
 <br/>
 
-<table>
-  <tr><td>🔭 <b>Currently working on</b></td><td>My Personal Portfolio</td></tr>
-  <tr><td>🌱 <b>Currently learning</b></td><td>React, TypeScript, and Cloud Technologies</td></tr>
-  <tr><td>👯 <b>Open to collaborate on</b></td><td>Open Source Web Projects</td></tr>
-  <tr><td>🤝 <b>Looking for help with</b></td><td>Building scalable web applications</td></tr>
-  <tr><td>💬 <b>Ask me about</b></td><td>JavaScript, Web Development, and UI Design</td></tr>
-  <tr><td>⚡ <b>Fun fact</b></td><td>I turn coffee into code and love solving complex problems!</td></tr>
-</table>
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-about.svg" width="100%" alt="About" />
 
 </div>
 
