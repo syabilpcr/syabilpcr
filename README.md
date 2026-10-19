@@ -2,42 +2,46 @@
 
 <img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-banner.svg" width="100%" alt="Muhammad Syabil Al Jabbar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=600&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5" alt="Fire" />
-
 <a href="https://github.com/syabilpcr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Syabil+Al+Jabbar;Passionate+Frontend+Developer+%F0%9F%92%BB;Learning+React+%E2%80%A2+TypeScript+%E2%80%A2+Cloud+%E2%98%81%EF%B8%8F;I+turn+coffee+into+code+%E2%98%95;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=56&lines=Hi+%F0%9F%91%8B%2C+I'm+Syabil+Al+Jabbar;Passionate+Frontend+Developer+%F0%9F%92%BB;Learning+React+%E2%80%A2+TypeScript+%E2%80%A2+Cloud+%E2%98%81%EF%B8%8F;I+turn+coffee+into+code+%E2%98%95;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=syabilpcr&label=PROFILE%20VIEWS&color=ffffff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=syabilpcr&label=PROFILE%20VIEWS&color=2b2b2b&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/syabilpcr?tab=followers"><img src="https://img.shields.io/github/followers/syabilpcr?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="Followers" /></a>
 <a href="https://github.com/syabilpcr?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-10-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Repos" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20ABOUT%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="About Me" />
-
-Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsif, dan nyaman digunakan, serta senang memecahkan masalah yang kompleks.
-
-| | |
-|:--|:--|
-| 🔭 **Currently working on** | My Personal Portfolio |
-| 🌱 **Currently learning** | React, TypeScript, and Cloud Technologies |
-| 👯 **Open to collaborate on** | Open Source Web Projects |
-| 🤝 **Looking for help with** | Building scalable web applications |
-| 💬 **Ask me about** | JavaScript, Web Development, and UI Design |
-| ⚡ **Fun fact** | I turn coffee into code and love solving complex problems! |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20TECH%20STACK&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="Tech Stack" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-about.svg" width="100%" alt="About Me" />
 
 <div align="center">
 
-**FRONTEND**
+Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsif, dan nyaman digunakan, serta senang memecahkan masalah yang kompleks.
+
+<br/>
+
+<table>
+  <tr><td>🔭 <b>Currently working on</b></td><td>My Personal Portfolio</td></tr>
+  <tr><td>🌱 <b>Currently learning</b></td><td>React, TypeScript, and Cloud Technologies</td></tr>
+  <tr><td>👯 <b>Open to collaborate on</b></td><td>Open Source Web Projects</td></tr>
+  <tr><td>🤝 <b>Looking for help with</b></td><td>Building scalable web applications</td></tr>
+  <tr><td>💬 <b>Ask me about</b></td><td>JavaScript, Web Development, and UI Design</td></tr>
+  <tr><td>⚡ <b>Fun fact</b></td><td>I turn coffee into code and love solving complex problems!</td></tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
+
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-tech.svg" width="100%" alt="Tech Stack" />
+
+<div align="center">
+
+<h4>FRONTEND</h4>
 
 <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" />
@@ -48,7 +52,7 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 <img src="https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap" />
 
-**BACKEND & DATABASE**
+<h4>BACKEND &amp; DATABASE</h4>
 
 <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js" />
 <img src="https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=black" alt="PHP" />
@@ -58,7 +62,7 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
-**MOBILE, TOOLS & CLOUD**
+<h4>MOBILE, TOOLS &amp; CLOUD</h4>
 
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=black" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
@@ -71,9 +75,9 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20GITHUB%20STATS&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-stats.svg" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -86,45 +90,38 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20ACTIVITY&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="Activity" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-activity.svg" width="100%" alt="Activity" />
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/e5e5e5/syabilpcr" />
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/111111/syabilpcr" width="95%" />
-</picture>
-
-<br/><br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20PROJECTS&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="Projects" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-projects.svg" width="100%" alt="Projects" />
 
 <div align="center">
 
 <a href="https://github.com/syabilpcr/prak-react-jabbar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syabilpcr&repo=prak-react-jabbar&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=ffffff&border_radius=12" alt="prak-react-jabbar" /></a>
 <a href="https://github.com/syabilpcr/mobile_syabil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syabilpcr&repo=mobile_syabil&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=ffffff&border_radius=12" alt="mobile_syabil" /></a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/syabilpcr/muhammad-syabil-al-jabbar"><img src="https://img.shields.io/badge/LIHAT%20SEMUA%20PROJECT-%E2%86%92-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="All projects" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-divider.svg" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=64&text=%F0%9F%94%A5%20LET'S%20CONNECT&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52" width="100%" alt="Let's Connect" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/h-connect.svg" width="100%" alt="Let's Connect" />
 
 <div align="center">
 
@@ -137,8 +134,6 @@ Mahasiswa Sistem Informasi yang suka membangun antarmuka web yang rapi, responsi
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=520&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%94%A5;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Thanks" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d4d4d,100:000000&height=140&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
