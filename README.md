@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4d4d4d&height=240&section=header&text=MUHAMMAD%20SYABIL%20AL%20JABBAR&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20INFORMATION%20SYSTEMS%20STUDENT&descAlignY=60&descSize=15" width="100%" alt="Header" />
+<img src="https://raw.githubusercontent.com/syabilpcr/syabilpcr/main/fire-banner.svg" width="100%" alt="Muhammad Syabil Al Jabbar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=600&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5" alt="Fire" />
 
